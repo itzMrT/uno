@@ -1,7 +1,7 @@
 #just colors
 import random
 import replit
-deck = ["red", "blue", "green","yellow"]
+deck = ["red", "blue", "green","yellow","Orange"]
 
 
 player1 = {
